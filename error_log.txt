@@ -1,0 +1,50 @@
+2024-03-04 11:31:55 - Inicio de sesión fallido
+2024-03-04 11:26:55 - Fallo en la verificación de seguridad
+2024-03-04 11:21:55 - Sobrecarga de memoria
+2024-03-04 11:16:55 - Error de validación de datos
+2024-03-04 11:11:55 - Fallo en la verificación de seguridad
+2024-03-04 11:06:55 - Excepción no controlada en el servidor
+2024-03-04 11:01:55 - Error de validación de datos
+2024-03-04 10:56:55 - Acceso denegado a recurso
+2024-03-04 10:51:55 - Error de validación de datos
+2024-03-04 10:46:55 - Error de conexión a la base de datos
+2024-03-03 11:31:55 - Error al leer archivo de configuración
+2024-03-03 11:26:55 - Fallo en la verificación de seguridad
+2024-03-03 11:21:55 - Acceso denegado a recurso
+2024-03-03 11:16:55 - Sobrecarga de memoria
+2024-03-03 11:11:55 - Fallo en la verificación de seguridad
+2024-03-03 11:06:55 - Acceso denegado a recurso
+2024-03-03 11:01:55 - Timeout en solicitud de red
+2024-03-03 10:56:55 - Inicio de sesión fallido
+2024-03-03 10:51:55 - Fallo en la verificación de seguridad
+2024-03-03 10:46:55 - Fallo al enviar correo electrónico
+2024-03-02 11:31:55 - Acceso denegado a recurso
+2024-03-02 11:26:55 - Sobrecarga de memoria
+2024-03-02 11:21:55 - Error de conexión a la base de datos
+2024-03-02 11:16:55 - Inicio de sesión fallido
+2024-03-02 11:11:55 - Fallo al enviar correo electrónico
+2024-03-02 11:06:55 - Fallo en la verificación de seguridad
+2024-03-02 11:01:55 - Error de conexión a la base de datos
+2024-03-02 10:56:55 - Timeout en solicitud de red
+2024-03-02 10:51:55 - Timeout en solicitud de red
+2024-03-02 10:46:55 - Error al leer archivo de configuración
+2024-03-01 11:31:55 - Fallo al enviar correo electrónico
+2024-03-01 11:26:55 - Acceso denegado a recurso
+2024-03-01 11:21:55 - Error al leer archivo de configuración
+2024-03-01 11:16:55 - Fallo en la verificación de seguridad
+2024-03-01 11:11:55 - Excepción no controlada en el servidor
+2024-03-01 11:06:55 - Inicio de sesión fallido
+2024-03-01 11:01:55 - Excepción no controlada en el servidor
+2024-03-01 10:56:55 - Inicio de sesión fallido
+2024-03-01 10:51:55 - Error de conexión a la base de datos
+2024-03-01 10:46:55 - Acceso denegado a recurso
+2024-02-29 11:31:55 - Acceso denegado a recurso
+2024-02-29 11:26:55 - Sobrecarga de memoria
+2024-02-29 11:21:55 - Fallo en la verificación de seguridad
+2024-02-29 11:16:55 - Fallo al enviar correo electrónico
+2024-02-29 11:11:55 - Inicio de sesión fallido
+2024-02-29 11:06:55 - Timeout en solicitud de red
+2024-02-29 11:01:55 - Error de validación de datos
+2024-02-29 10:56:55 - Timeout en solicitud de red
+2024-02-29 10:51:55 - Fallo en la verificación de seguridad
+2024-02-29 10:46:55 - Acceso denegado a recurso
